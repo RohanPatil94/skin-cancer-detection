@@ -32,8 +32,11 @@ Number of classes: [e.g., Benign, Malignant]
 
 📊 Results
 
-Model	                  Classification Accuracy (%)
-Random Forest         	86.0
-Multilayer Perceptron	  87.6
-Ensemble (RF + MLP)	    88.4
+Model	                       Classification Accuracy (%)
+
+Random Forest         	     86.0
+
+Multilayer Perceptron	       87.6
+
+Ensemble (RF + MLP)	         88.4
 
